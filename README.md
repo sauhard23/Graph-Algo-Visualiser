@@ -7,7 +7,7 @@ Customizable Graph: Add, remove, and edit nodes and edges to create your custom 
 Algorithm Selection: Choose between DFS, BFS, and Dijkstra's Algorithm for visualization.
 Speed Control: Adjust the visualization speed to understand the algorithms at different paces.
 
-##For any inquiries or feedback, please contact
+<h1>For any inquiries or feedback, please contact</h1>
 email at [sauhard23adhikari@gmail.com].
 
 
