@@ -1,7 +1,7 @@
-##Overview
+<h1>Overview<\h1>
 This project is a Graph Algorithm Visualizer built using HTML, CSS, and JavaScript. It provides a user-friendly interface to visualize graph traversal algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), and Dijkstra's Algorithm.
 
-##Features
+<h1>Features<\h1>
 Interactive Visualization: Easily visualize the graph traversal process step by step.
 Customizable Graph: Add, remove, and edit nodes and edges to create your custom graph.
 Algorithm Selection: Choose between DFS, BFS, and Dijkstra's Algorithm for visualization.
